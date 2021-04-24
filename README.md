@@ -6,9 +6,9 @@ A freeCodeCamp front-end libraries projects to build a markdown previewer
 
 - React
 - Bootstrap
-- [Marked](https://github.com/markedjs/marked/ "title" target="_blank")
+- [Marked](https://github.com/markedjs/marked/)
 
-You can see the project on [Netlify](https://focused-colden-a447c1.netlify.app/ "title" target="_blank")
+You can see the project on [Netlify](https://focused-colden-a447c1.netlify.app/)
 
 In the project directory, you can run:
 
