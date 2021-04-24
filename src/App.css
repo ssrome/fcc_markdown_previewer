@@ -17,7 +17,7 @@
 
 h1.heading {
   font-family: "Orelega One", cursive;
-  padding: 25px;
+  padding: 20px;
 }
 
 p code {
@@ -40,14 +40,14 @@ p a {
 .subHeading {
   background-color: #c5c5c5;
   font-family: "Orelega One", cursive;
-  margin: 15px auto 0;
+  margin: 10px auto 0;
   padding: 10px;
   text-align: center;
 }
 
 .form-control.inputField {
   background-color: var(--secondary-color);
-  margin: 0 auto;
+  margin: 0 auto 20px;
 }
 
 .preview.col {

@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-A freeCodeCamp front-end libraries projects to build a markdown previewer
+A freeCodeCamp front-end libraries project to build a markdown previewer using any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery. The project had to pass a list of user stories, in order to be complete.
 
 ## Technologies
 
@@ -8,7 +8,7 @@ A freeCodeCamp front-end libraries projects to build a markdown previewer
 - Bootstrap
 - [Marked](https://github.com/markedjs/marked/)
 
-You can see the project on [Netlify](https://focused-colden-a447c1.netlify.app/)
+You can see my markdown previewer project on [Netlify](https://focused-colden-a447c1.netlify.app/)
 
 In the project directory, you can run:
 
