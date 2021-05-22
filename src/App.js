@@ -34,7 +34,7 @@ There's also links [you can](https://www.freecodecamp.com) click, and
 
   function setLocalStorage() {
     localStorage.setItem("project_selector", "markdown-previewer");
-    localStorage.setItem("fCC_markdown-previewer_hide", false);
+    localStorage.setItem("fCC_markdown-previewer_hide", true);
   }
   const renderer = new marked.Renderer();
   marked.setOptions({
