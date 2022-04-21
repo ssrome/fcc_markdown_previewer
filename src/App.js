@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Form from "react-bootstrap/Form";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import marked from "marked";
+import { marked } from "marked";
 
 export default function App() {
   const placeholderText = `# My React Markdown Previewer!
