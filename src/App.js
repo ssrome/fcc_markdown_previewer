@@ -93,7 +93,7 @@ There's also links [you can](https://www.freecodecamp.com) click, and
             <a
               href="https://github.com/ssrome/fcc_markdown_previewer"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Open-sourced code
             </a>{" "}
